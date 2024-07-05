@@ -2,4 +2,4 @@ Este repositorio nace como un ejercicio práctico dentro del curso de Tecnologí
 
 Puedes visualizar el fichero 3D desde este enlace: https://ladygodiva95.github.io/Modelo-3D-Meshlab/
 
---> Debido al peso del modelo 3D usa el navegador de Firefox visualización correcta.
+--> Debido al peso del modelo 3D usa el navegador de Firefox para una visualización correcta.
